@@ -44,3 +44,8 @@ In conclusion, Task 3 helped me solidify my understanding of multi-threaded serv
 #output
 
 
+<img width="1180" height="512" alt="Image" src="https://github.com/user-attachments/assets/277f3e35-b643-444b-88cb-6360b3e60970" />
+
+<img width="730" height="443" alt="Image" src="https://github.com/user-attachments/assets/2e0ef2a9-872d-4670-a582-568a4b6a6f55" />
+
+
